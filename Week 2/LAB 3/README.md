@@ -24,3 +24,6 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-
 Create bootstrap actions to install additional software
 
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html
+
+Lab Completed.
+I think all relevant images can be seen in LAB 1 folder.

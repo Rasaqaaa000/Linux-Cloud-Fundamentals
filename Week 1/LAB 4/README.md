@@ -14,3 +14,6 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-key
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+Lab Completed.
+Just like in LAB 1, an SSH key was generated while creating my VM and i SSH into my VM from my CLI
